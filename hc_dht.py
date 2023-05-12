@@ -1,14 +1,9 @@
+#yujeong
+
 import time
 import sys
 from pymata4 import pymata4
 
-"""
-Setup a pin for dht mode
-One pin is set for a dht22 and another for dht11
-Both polling and callback are being used in this example.
-"""
-
-#
 POLL_TIME = 5  # number of seconds between polls
 
 # Callback data indices
@@ -19,14 +14,6 @@ CB_TIME = 3
 
 
 def the_callback(data):
-    """
-    A callback function to report data changes.
-    This will print the pin number, its reported value and
-    the date and time when the change occurred
-
-    :param data: [report_type, pin, dht_type, error_value,
-                  humidity, temperature, timestamp]
-    """
 
     if not data[3]:
         tlist = time.localtime(data[6])
@@ -38,14 +25,6 @@ def the_callback(data):
 
 
 def dht(my_board, callback=None):
-    """
-     This function establishes the pin as a
-     digital input. Any changes on this pin will
-     be reported through the call back function.
-
-     :param my_board: a pymata4 instance
-     :param callback: callback funtion
-     """
 
     # set the pin mode - for pin 6 differential is set explicitly
     my_board.set_pin_mode_dht(4, sensor_type=11, differential=.05, callback=callback)
