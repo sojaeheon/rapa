@@ -2,10 +2,6 @@ import sys
 import time
 from pymata4 import pymata4
 
-"""
-This program continuously monitors an HC-SR04 Ultrasonic Sensor
-It reports changes to the distance sensed.
-"""
 # indices into callback data
 DISTANCE_CM = 2
 TRIGGER_PIN = 11
