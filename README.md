@@ -1,2 +1,2 @@
 # rapa
-https://www.notion.so/lab_-e477063f4d614f3690253497b82ef34e?pvs=4#869783132a4c4c81bf8af11cfdd437e1
+![image](https://github.com/2023rapa-project/rapa/assets/132196804/42f90fd2-2e4a-4cf2-b1df-0f46c208a0f8)
