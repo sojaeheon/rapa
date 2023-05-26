@@ -1,2 +1,2 @@
 # rapa
-![KakaoTalk_20230525_182541164](https://github.com/2023rapa-project/rapa/assets/132196804/3f634fc4-5d10-4d62-91dd-d10ddd017834)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d2130ebe-12ed-4c0f-b820-57d227571ab8/Untitled.png)
