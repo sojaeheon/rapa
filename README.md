@@ -1,2 +1,2 @@
 # rapa
-![image](https://github.com/2023rapa-project/rapa/assets/132196804/42f90fd2-2e4a-4cf2-b1df-0f46c208a0f8)
+![IMG_0125](https://github.com/2023rapa-project/rapa/assets/132196804/8471773b-2c1e-401c-9c41-9e36129f37e7)
