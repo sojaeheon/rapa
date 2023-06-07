@@ -5,6 +5,6 @@
 # MQTT
 ![image](https://github.com/2023rapa-project/rapa/assets/119103469/a7e49433-5c49-46c0-8f45-1fb60b78094c)
 
-#영상
+# 영상
 
-#
+# Q&A
